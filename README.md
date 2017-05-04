@@ -1,6 +1,5 @@
 # encrypted-chat
 
-# encrypted-chat
 encrypted chat program--RSA to share keys and AES128 to encrypt messages
 
 
